@@ -3,4 +3,4 @@ descrição do meu read me
 ## subtitulo
 bla bla bla
 ## para que serve esse arquivo
-serve para aprender
+serve para aprender sobre github
